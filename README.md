@@ -1,1 +1,1 @@
-remarkable-kataifi-deda26.netlify.app
+Frontend Shopping Project: https://remarkable-kataifi-deda26.netlify.app
